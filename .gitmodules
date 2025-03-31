@@ -1,0 +1,6 @@
+[submodule "FILROUGEFRONTEND"]
+	path = FILROUGEFRONTEND
+	url = https://github.com/Trapo6x7/FILROUGEFRONTEND
+[submodule "FILROUGEBACKEND"]
+	path = FILROUGEBACKEND
+	url = https://github.com/Trapo6x7/BookMarketApi
